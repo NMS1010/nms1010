@@ -44,7 +44,7 @@
 
 ## 🔥 What I'm Working On
 
-- ⚡ High-load trading systems (10k+ accounts/sec)
+- ⚡ High-load trading systems
 - 🔄 Distributed message processing & ordering
 - 💰 Payment gateway integrations
 - 🚀 System performance optimization
