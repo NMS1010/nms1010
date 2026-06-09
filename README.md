@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💼 .NET Backend Engineer with **2.5+ years experience** (Fintech & Trading Systems)
+- 💼 .NET Backend Engineer with about **3 years experience** (Fintech & Trading Systems)
 - ⚡ Building **high-performance, scalable application**
 - 🔁 Experienced in **event-driven architecture & real-time systems**
 - 💳 Worked with **payment gateways & trading platform integrations**
